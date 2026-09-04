@@ -7,15 +7,15 @@ about:
   head: 9f0b28f
   archived: false
   latestVersion: v1.3.6
-  collectedAt: 2026-09-04T19:52:02Z
+  collectedAt: 2026-09-04T20:47:50Z
 timeline:
   created: 2024-03-11
   lastCommit: 2026-09-04
   lastRelease: 2026-09-02
 popularity:
-  star: 120520
+  star: 120538
   watcher: 743
-  fork: 18489
+  fork: 18492
   release: 19
   contributor: 103
   pullRequest: 451
@@ -85,5 +85,78 @@ total:
   openIssue: 6
   commit: 826
 ---
+path: /home/runner/.x-repo/github.com/harry0703/MoneyPrinterTurbo
+collectedAt: 2026-09-04T20:48:36Z
+loc:
+  Python:
+    code: 45257
+    comments: 1793
+    blanks: 6397
+    files: 108
+  Json:
+    code: 6576
+    comments: 0
+    blanks: 0
+    files: 15
+  Css:
+    code: 375
+    comments: 42
+    blanks: 69
+    files: 1
+  Toml:
+    code: 236
+    comments: 351
+    blanks: 86
+    files: 2
+  Jupyter:
+    code: 82
+    comments: 15
+    blanks: 17
+    files: 1
+  Dockerfile:
+    code: 76
+    comments: 23
+    blanks: 12
+    files: 1
+  Yaml:
+    code: 66
+    comments: 12
+    blanks: 2
+    files: 3
+  Sh:
+    code: 56
+    comments: 11
+    blanks: 14
+    files: 1
+  Svg:
+    code: 52
+    comments: 0
+    blanks: 0
+    files: 5
+  Batch:
+    code: 43
+    comments: 0
+    blanks: 9
+    files: 1
+  Html:
+    code: 18
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1225
+    blanks: 511
+    files: 5
+  Text:
+    code: 0
+    comments: 650
+    blanks: 313
+    files: 2
+total:
+  code: 53010
+  comments: 4144
+  blanks: 7454
+  files: 146
 ---
 
