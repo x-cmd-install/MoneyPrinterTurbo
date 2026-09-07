@@ -2,97 +2,97 @@ about:
   description: "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
   license: MIT
   homepage: 
-  head: 883ef2f
+  head: 5ceffd0
   archived: false
   latestVersion: "v1.3.6"
-  collectedAt: 2026-09-07T06:13:06Z
+  collectedAt: 2026-09-07T18:24:29Z
 timeline:
   created: 2024-03-11
   lastCommit: 2026-09-07
   lastRelease: 2026-09-02
 popularity:
-  star: 121220
-  watcher: 750
-  fork: 18679
+  star: 121327
+  watcher: 751
+  fork: 18706
   release: 19
   contributor: 107
-  pullRequest: 458
-  issue: 799
+  pullRequest: 460
+  issue: 800
 language:
-  Python: 2126452
+  Python: 2183710
   CSS: 15224
   Dockerfile: 5361
   Shell: 2898
   Batchfile: 2872
   HTML: 689
-totalBytes: 2153496
+totalBytes: 2210754
 recent:
   last30d:
     since: 2026-08-08
     release: 3
     mergedPR: 46
-    openPR: 15
+    openPR: 16
     closedIssue: 31
-    openIssue: 6
-    commit: 0
+    openIssue: 7
+    commit: 105
   last60d:
     since: 2026-07-09
     release: 5
     mergedPR: 54
-    openPR: 15
+    openPR: 16
     closedIssue: 58
-    openIssue: 7
-    commit: 0
+    openIssue: 8
+    commit: 139
   last90d:
     since: 2026-06-09
     release: 7
     mergedPR: 74
-    openPR: 15
+    openPR: 16
     closedIssue: 89
-    openIssue: 7
-    commit: 0
+    openIssue: 8
+    commit: 185
   last180d:
     since: 2026-03-11
     release: 10
     mergedPR: 97
-    openPR: 15
+    openPR: 16
     closedIssue: 173
-    openIssue: 7
-    commit: 0
+    openIssue: 8
+    commit: 296
   last360d:
     since: 2025-09-12
     release: 10
     mergedPR: 104
-    openPR: 15
+    openPR: 16
     closedIssue: 216
-    openIssue: 7
-    commit: 0
+    openIssue: 8
+    commit: 306
   last720d:
     since: 2024-09-17
     release: 14
     mergedPR: 143
-    openPR: 15
+    openPR: 16
     closedIssue: 417
-    openIssue: 7
-    commit: 468
+    openIssue: 8
+    commit: 469
 total:
   release: 19
   mergedPR: 245
-  openPR: 15
+  openPR: 16
   closedIssue: 792
-  openIssue: 7
-  commit: 837
+  openIssue: 8
+  commit: 838
 ---
 path: /home/runner/.x-repo/github.com/harry0703/MoneyPrinterTurbo
-collectedAt: 2026-09-07T06:13:28Z
+collectedAt: 2026-09-07T18:24:56Z
 loc:
   Python:
-    code: 46267
-    comments: 1846
-    blanks: 6525
-    files: 111
+    code: 47490
+    comments: 1877
+    blanks: 6653
+    files: 112
   Json:
-    code: 6664
+    code: 6690
     comments: 0
     blanks: 0
     files: 15
@@ -152,15 +152,15 @@ loc:
     blanks: 313
     files: 2
 total:
-  code: 54142
-  comments: 4224
-  blanks: 7588
-  files: 150
+  code: 55391
+  comments: 4255
+  blanks: 7716
+  files: 151
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:13:31+00:00
+  collectedAt: 2026-09-07T18:25:01+00:00
   platform:
     darwin/arm64:
       name:  null
