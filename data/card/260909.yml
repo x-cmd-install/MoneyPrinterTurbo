@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.3.6"
   latestRelease: "v1.3.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:24:36Z
+  collectedAt: 2026-09-09T20:48:32Z
 timeline:
   created: 2024-03-11
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-02
   lastPrerelease: 
 popularity:
-  star: 121677
-  watcher: 749
-  fork: 18779
+  star: 121961
+  watcher: 748
+  fork: 18823
   release: 19
   contributor: 109
-  pullRequest: 463
-  issue: 803
+  pullRequest: 464
+  issue: 804
 language:
   Python: 2230583
   CSS: 15224
@@ -35,60 +35,60 @@ recent:
     since: 2026-08-10
     release: 3
     mergedPR: 49
-    openPR: 17
+    openPR: 18
     closedIssue: 32
-    openIssue: 7
+    openIssue: 8
     commit: 110
   last60d:
     since: 2026-07-11
     release: 5
     mergedPR: 55
-    openPR: 17
+    openPR: 18
     closedIssue: 60
-    openIssue: 8
+    openIssue: 9
     commit: 144
   last90d:
     since: 2026-06-11
     release: 6
     mergedPR: 72
-    openPR: 17
+    openPR: 18
     closedIssue: 85
-    openIssue: 8
+    openIssue: 9
     commit: 190
   last180d:
     since: 2026-03-13
     release: 10
     mergedPR: 99
-    openPR: 17
+    openPR: 18
     closedIssue: 176
-    openIssue: 8
+    openIssue: 9
     commit: 301
   last360d:
     since: 2025-09-14
     release: 10
     mergedPR: 107
-    openPR: 17
+    openPR: 18
     closedIssue: 219
-    openIssue: 8
+    openIssue: 9
     commit: 311
   last720d:
     since: 2024-09-19
     release: 14
     mergedPR: 146
-    openPR: 17
+    openPR: 18
     closedIssue: 418
-    openIssue: 8
+    openIssue: 9
     commit: 478
 total:
   release: 19
   mergedPR: 248
-  openPR: 17
+  openPR: 18
   closedIssue: 795
-  openIssue: 8
+  openIssue: 9
   commit: 847
 ---
 path: /home/runner/.x-repo/github.com/harry0703/MoneyPrinterTurbo
-collectedAt: 2026-09-09T06:24:54Z
+collectedAt: 2026-09-09T20:49:02Z
 loc:
   Python:
     code: 48372
