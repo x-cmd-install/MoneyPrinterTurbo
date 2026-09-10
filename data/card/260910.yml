@@ -1,0 +1,165 @@
+about:
+  description: "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+  license: MIT
+  homepage: 
+  head: e20a3c4
+  archived: false
+  latestVersion: "v1.3.6"
+  latestRelease: "v1.3.6"
+  latestPrerelease: ""
+  collectedAt: 2026-09-10T06:26:17Z
+timeline:
+  created: 2024-03-11
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-02
+  lastRelease: 2026-09-02
+  lastPrerelease: 
+popularity:
+  star: 122050
+  watcher: 748
+  fork: 18836
+  release: 19
+  contributor: 110
+  pullRequest: 464
+  issue: 804
+language:
+  Python: 2230589
+  CSS: 15224
+  Dockerfile: 5361
+  Shell: 2898
+  Batchfile: 2872
+  HTML: 689
+totalBytes: 2257633
+recent:
+  last30d:
+    since: 2026-08-11
+    release: 3
+    mergedPR: 50
+    openPR: 17
+    closedIssue: 32
+    openIssue: 8
+    commit: 111
+  last60d:
+    since: 2026-07-12
+    release: 5
+    mergedPR: 56
+    openPR: 17
+    closedIssue: 60
+    openIssue: 9
+    commit: 145
+  last90d:
+    since: 2026-06-12
+    release: 6
+    mergedPR: 71
+    openPR: 17
+    closedIssue: 85
+    openIssue: 9
+    commit: 191
+  last180d:
+    since: 2026-03-14
+    release: 10
+    mergedPR: 100
+    openPR: 17
+    closedIssue: 176
+    openIssue: 9
+    commit: 302
+  last360d:
+    since: 2025-09-15
+    release: 10
+    mergedPR: 108
+    openPR: 17
+    closedIssue: 219
+    openIssue: 9
+    commit: 312
+  last720d:
+    since: 2024-09-20
+    release: 14
+    mergedPR: 147
+    openPR: 17
+    closedIssue: 418
+    openIssue: 9
+    commit: 480
+total:
+  release: 19
+  mergedPR: 249
+  openPR: 17
+  closedIssue: 795
+  openIssue: 9
+  commit: 849
+---
+path: /home/runner/.x-repo/github.com/harry0703/MoneyPrinterTurbo
+collectedAt: 2026-09-10T06:26:49Z
+loc:
+  Python:
+    code: 48372
+    comments: 1928
+    blanks: 6784
+    files: 112
+  Json:
+    code: 7104
+    comments: 0
+    blanks: 0
+    files: 16
+  Css:
+    code: 375
+    comments: 42
+    blanks: 69
+    files: 1
+  Toml:
+    code: 244
+    comments: 367
+    blanks: 88
+    files: 2
+  Jupyter:
+    code: 93
+    comments: 16
+    blanks: 20
+    files: 1
+  Yaml:
+    code: 92
+    comments: 24
+    blanks: 6
+    files: 4
+  Dockerfile:
+    code: 76
+    comments: 23
+    blanks: 12
+    files: 1
+  Sh:
+    code: 56
+    comments: 10
+    blanks: 14
+    files: 1
+  Svg:
+    code: 52
+    comments: 0
+    blanks: 0
+    files: 5
+  Batch:
+    code: 43
+    comments: 0
+    blanks: 9
+    files: 1
+  Html:
+    code: 18
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1225
+    blanks: 511
+    files: 5
+  Text:
+    code: 0
+    comments: 650
+    blanks: 313
+    files: 2
+total:
+  code: 56709
+  comments: 4308
+  blanks: 7853
+  files: 152
+---
+
+---
