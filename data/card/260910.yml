@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.3.6"
   latestRelease: "v1.3.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:10:36Z
+  collectedAt: 2026-09-10T23:42:28Z
 timeline:
   created: 2024-03-11
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-02
   lastPrerelease: 
 popularity:
-  star: 122192
+  star: 122231
   watcher: 748
-  fork: 18867
+  fork: 18880
   release: 19
   contributor: 111
   pullRequest: 466
@@ -88,7 +88,7 @@ total:
   commit: 855
 ---
 path: /home/runner/.x-repo/github.com/harry0703/MoneyPrinterTurbo
-collectedAt: 2026-09-10T18:11:00Z
+collectedAt: 2026-09-10T23:42:58Z
 loc:
   Python:
     code: 48941
