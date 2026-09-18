@@ -32,27 +32,27 @@ Total: **61,983** lines of code across **140** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.7` (2026-09-13)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 124,345 · **Forks**: 19,255 · **Open issues**: 809 · **Contributors**: 117
+- **Stars**: 124,487 · **Forks**: 19,290 · **Open issues**: 809 · **Contributors**: 117
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 291 · **Open PRs**: 21 · **Closed issues**: 799 · **Open issues**: 10 · **Commits**: 919
+- **Releases**: 20 · **Merged PRs**: 291 · **Open PRs**: 21 · **Closed issues**: 799 · **Open issues**: 10 · **Commits**: 920
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 3 | 88 | 20 | 32 | 8 | 149 |
-| last60d | 2026-07-19 | 5 | 98 | 21 | 61 | 10 | 187 |
-| 90d | 2026-06-19 | 7 | 108 | 21 | 77 | 10 | 230 |
-| last180d | 2026-03-21 | 11 | 142 | 21 | 179 | 10 | 351 |
-| 360d | 2025-09-22 | 11 | 150 | 21 | 222 | 10 | 362 |
-| last720d | 2024-09-27 | 15 | 189 | 21 | 420 | 10 | 550 |
+| 30d | 2026-08-19 | 3 | 85 | 20 | 30 | 8 | 150 |
+| last60d | 2026-07-20 | 5 | 98 | 21 | 61 | 10 | 188 |
+| 90d | 2026-06-20 | 7 | 108 | 21 | 76 | 10 | 231 |
+| last180d | 2026-03-22 | 11 | 142 | 21 | 179 | 10 | 352 |
+| 360d | 2025-09-23 | 11 | 150 | 21 | 222 | 10 | 363 |
+| last720d | 2024-09-28 | 15 | 188 | 21 | 419 | 10 | 551 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for MoneyPrinterTurbo lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:50:16Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:39:57Z._
