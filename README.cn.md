@@ -4,7 +4,7 @@
 
 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
-![MoneyPrinterTurbo](https://repo.x-cmd.io/MoneyPrinterTurbo.svg?lang=zh)
+[![x-cmd/install — MoneyPrinterTurbo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/MoneyPrinterTurbo.svg?lang=zh)](https://x-cmd.com/install/MoneyPrinterTurbo)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install MoneyPrinterTurbo
 
 ## 代码洞察
 
-合计: **61,983** 行代码（覆盖前 5 种语言、共 **140** 个文件）。
+合计: **62,644** 行代码（覆盖前 5 种语言、共 **142** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 53,584 | 2,161 | 7,412 | 120 |
-| Json | 7,319 | 0 | 0 | 16 |
+| Python | 53,822 | 2,180 | 7,451 | 121 |
+| Json | 7,742 | 0 | 0 | 17 |
 | Css | 375 | 42 | 69 | 1 |
 | Toml | 265 | 394 | 92 | 2 |
 | Jupyter | 93 | 16 | 20 | 1 |
@@ -37,22 +37,22 @@ x install MoneyPrinterTurbo
 
 ## 流行度
 
-- **Star**: 124,487 · **Fork**: 19,290 · **开放 issue**: 809 · **贡献者**: 117
+- **Star**: 124,759 · **Fork**: 19,326 · **开放 issue**: 809 · **贡献者**: 118
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 291 · **开放 PR**: 21 · **已关闭 issue**: 799 · **开放 issue**: 10 · **提交数**: 920
+- **发布数**: 20 · **已合并 PR**: 293 · **开放 PR**: 19 · **已关闭 issue**: 799 · **开放 issue**: 10 · **提交数**: 923
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 85 | 20 | 30 | 8 | 150 |
-| last60d | 2026-07-20 | 5 | 98 | 21 | 61 | 10 | 188 |
-| 90d | 2026-06-20 | 7 | 108 | 21 | 76 | 10 | 231 |
-| last180d | 2026-03-22 | 11 | 142 | 21 | 179 | 10 | 352 |
-| 360d | 2025-09-23 | 11 | 150 | 21 | 222 | 10 | 363 |
-| last720d | 2024-09-28 | 15 | 188 | 21 | 419 | 10 | 551 |
+| 30d | 2026-08-21 | 3 | 77 | 15 | 23 | 7 | 153 |
+| last60d | 2026-07-22 | 5 | 100 | 19 | 60 | 10 | 191 |
+| 90d | 2026-06-22 | 7 | 108 | 19 | 73 | 10 | 234 |
+| last180d | 2026-03-24 | 11 | 144 | 19 | 178 | 10 | 355 |
+| 360d | 2025-09-25 | 11 | 152 | 19 | 222 | 10 | 366 |
+| last720d | 2024-09-30 | 15 | 189 | 19 | 418 | 10 | 552 |
 
 ## Release 资产
 
@@ -69,4 +69,4 @@ MoneyPrinterTurbo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:39:58Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:31:20Z._
