@@ -14,11 +14,11 @@ x install MoneyPrinterTurbo
 
 ## Code insight
 
-Total: **62,705** lines of code across **142** files in the top 5 languages.
+Total: **62,842** lines of code across **142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 53,876 | 2,184 | 7,456 | 121 |
+| Python | 54,013 | 2,189 | 7,473 | 121 |
 | Json | 7,746 | 0 | 0 | 17 |
 | Css | 375 | 42 | 69 | 1 |
 | Toml | 268 | 397 | 93 | 2 |
@@ -37,22 +37,22 @@ Total: **62,705** lines of code across **142** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 125,404 · **Forks**: 19,499 · **Open issues**: 811 · **Contributors**: 120
+- **Stars**: 125,565 · **Forks**: 19,524 · **Open issues**: 812 · **Contributors**: 120
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 296 · **Open PRs**: 20 · **Closed issues**: 800 · **Open issues**: 11 · **Commits**: 927
+- **Releases**: 20 · **Merged PRs**: 296 · **Open PRs**: 21 · **Closed issues**: 800 · **Open issues**: 12 · **Commits**: 927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 2 | 68 | 14 | 20 | 7 | 98 |
-| last60d | 2026-07-26 | 4 | 101 | 20 | 54 | 11 | 187 |
-| 90d | 2026-06-26 | 7 | 107 | 20 | 70 | 11 | 224 |
-| last180d | 2026-03-28 | 11 | 146 | 20 | 178 | 11 | 358 |
-| 360d | 2025-09-29 | 11 | 154 | 20 | 221 | 11 | 369 |
-| last720d | 2024-10-04 | 15 | 192 | 20 | 419 | 11 | 555 |
+| 30d | 2026-08-26 | 2 | 63 | 15 | 18 | 8 | 98 |
+| last60d | 2026-07-27 | 4 | 101 | 21 | 54 | 12 | 187 |
+| 90d | 2026-06-27 | 7 | 106 | 21 | 70 | 12 | 224 |
+| last180d | 2026-03-29 | 11 | 146 | 21 | 178 | 12 | 358 |
+| 360d | 2025-09-30 | 11 | 154 | 21 | 216 | 12 | 369 |
+| last720d | 2024-10-05 | 15 | 192 | 21 | 418 | 12 | 555 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for MoneyPrinterTurbo lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T06:09:31Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:18:39Z._
