@@ -37,22 +37,22 @@ Total: **77,683** lines of code across **249** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 129,966 · **Forks**: 20,366 · **Open issues**: 820 · **Contributors**: 133
+- **Stars**: 130,392 · **Forks**: 20,450 · **Open issues**: 820 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 471 · **Open PRs**: 74 · **Closed issues**: 802 · **Open issues**: 18 · **Commits**: 1116
+- **Releases**: 21 · **Merged PRs**: 471 · **Open PRs**: 75 · **Closed issues**: 802 · **Open issues**: 18 · **Commits**: 1116
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 2 | 217 | 56 | 5 | 9 | 196 |
-| last60d | 2026-08-13 | 4 | 270 | 73 | 38 | 17 | 353 |
-| 90d | 2026-07-14 | 6 | 277 | 74 | 66 | 18 | 384 |
-| last180d | 2026-04-15 | 11 | 317 | 74 | 169 | 18 | 513 |
-| 360d | 2025-10-17 | 12 | 327 | 74 | 211 | 18 | 557 |
-| last720d | 2024-10-22 | 16 | 365 | 74 | 418 | 18 | 743 |
+| 30d | 2026-09-13 | 2 | 211 | 56 | 5 | 9 | 196 |
+| last60d | 2026-08-14 | 4 | 270 | 74 | 37 | 17 | 353 |
+| 90d | 2026-07-15 | 6 | 277 | 75 | 66 | 18 | 384 |
+| last180d | 2026-04-16 | 11 | 317 | 75 | 167 | 18 | 513 |
+| 360d | 2025-10-18 | 12 | 327 | 75 | 211 | 18 | 557 |
+| last720d | 2024-10-23 | 16 | 365 | 75 | 418 | 18 | 743 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for MoneyPrinterTurbo lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:25:06Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:20:40Z._
