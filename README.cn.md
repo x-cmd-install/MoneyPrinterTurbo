@@ -31,35 +31,34 @@ x install MoneyPrinterTurbo
 
 ## 发布
 
-- **最新版本**: `v1.3.8` (2026-10-03)
-- **最近提交**: 2026-10-20
-- **Release 含资产**: 2 个
+- **最新版本**: `v1.3.9` (2026-10-21)
+- **最近提交**: 2026-10-21
+- **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 133,514 · **Fork**: 21,083 · **开放 issue**: 827 · **贡献者**: 141
+- **Star**: 133,850 · **Fork**: 21,141 · **开放 issue**: 827 · **贡献者**: 141
 
 ## 累计统计
 
-- **发布数**: 21 · **已合并 PR**: 528 · **开放 PR**: 54 · **已关闭 issue**: 807 · **开放 issue**: 20 · **提交数**: 1178
+- **发布数**: 22 · **已合并 PR**: 528 · **开放 PR**: 56 · **已关闭 issue**: 808 · **开放 issue**: 19 · **提交数**: 1179
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 232 | 35 | 8 | 10 | 251 |
-| last60d | 2026-08-22 | 4 | 305 | 49 | 30 | 17 | 360 |
-| 90d | 2026-07-23 | 6 | 332 | 54 | 66 | 20 | 440 |
-| last180d | 2026-04-24 | 11 | 374 | 54 | 169 | 20 | 574 |
-| 360d | 2025-10-26 | 12 | 384 | 54 | 215 | 20 | 619 |
-| last720d | 2024-10-31 | 16 | 422 | 54 | 417 | 20 | 805 |
+| 30d | 2026-09-22 | 2 | 232 | 36 | 9 | 9 | 252 |
+| last60d | 2026-08-23 | 4 | 304 | 50 | 29 | 16 | 361 |
+| 90d | 2026-07-24 | 7 | 332 | 56 | 64 | 19 | 441 |
+| last180d | 2026-04-25 | 12 | 374 | 56 | 170 | 19 | 575 |
+| 360d | 2025-10-27 | 13 | 384 | 56 | 216 | 19 | 620 |
+| last720d | 2024-11-01 | 17 | 422 | 56 | 418 | 19 | 806 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [MoneyPrinterTurbo-Portable-Windows-1.3.8.7z](https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.8/MoneyPrinterTurbo-Portable-Windows-1.3.8.7z) | 875.6 MiB | `native/win/x64` |
-| [MoneyPrinterTurbo-Portable-Windows-1.3.8.7z.sha256](https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.8/MoneyPrinterTurbo-Portable-Windows-1.3.8.7z.sha256) | 110 B | `native/win/x64` |
+| [MoneyPrinterTurbo-Portable-Windows-1.3.9.7z](https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.9/MoneyPrinterTurbo-Portable-Windows-1.3.9.7z) | 875.8 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -70,4 +69,4 @@ MoneyPrinterTurbo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T06:07:10Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T06:06:22Z._

@@ -31,35 +31,34 @@ Total: **81,379** lines of code across **305** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.3.8` (2026-10-03)
-- **Last commit**: 2026-10-20
-- **Assets in release**: 2
+- **Latest**: `v1.3.9` (2026-10-21)
+- **Last commit**: 2026-10-21
+- **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 133,514 · **Forks**: 21,083 · **Open issues**: 827 · **Contributors**: 141
+- **Stars**: 133,850 · **Forks**: 21,141 · **Open issues**: 827 · **Contributors**: 141
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 528 · **Open PRs**: 54 · **Closed issues**: 807 · **Open issues**: 20 · **Commits**: 1178
+- **Releases**: 22 · **Merged PRs**: 528 · **Open PRs**: 56 · **Closed issues**: 808 · **Open issues**: 19 · **Commits**: 1179
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 232 | 35 | 8 | 10 | 251 |
-| last60d | 2026-08-22 | 4 | 305 | 49 | 30 | 17 | 360 |
-| 90d | 2026-07-23 | 6 | 332 | 54 | 66 | 20 | 440 |
-| last180d | 2026-04-24 | 11 | 374 | 54 | 169 | 20 | 574 |
-| 360d | 2025-10-26 | 12 | 384 | 54 | 215 | 20 | 619 |
-| last720d | 2024-10-31 | 16 | 422 | 54 | 417 | 20 | 805 |
+| 30d | 2026-09-22 | 2 | 232 | 36 | 9 | 9 | 252 |
+| last60d | 2026-08-23 | 4 | 304 | 50 | 29 | 16 | 361 |
+| 90d | 2026-07-24 | 7 | 332 | 56 | 64 | 19 | 441 |
+| last180d | 2026-04-25 | 12 | 374 | 56 | 170 | 19 | 575 |
+| 360d | 2025-10-27 | 13 | 384 | 56 | 216 | 19 | 620 |
+| last720d | 2024-11-01 | 17 | 422 | 56 | 418 | 19 | 806 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [MoneyPrinterTurbo-Portable-Windows-1.3.8.7z](https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.8/MoneyPrinterTurbo-Portable-Windows-1.3.8.7z) | 875.6 MiB | `native/win/x64` |
-| [MoneyPrinterTurbo-Portable-Windows-1.3.8.7z.sha256](https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.8/MoneyPrinterTurbo-Portable-Windows-1.3.8.7z.sha256) | 110 B | `native/win/x64` |
+| [MoneyPrinterTurbo-Portable-Windows-1.3.9.7z](https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.9/MoneyPrinterTurbo-Portable-Windows-1.3.9.7z) | 875.8 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -70,4 +69,4 @@ Install metadata for MoneyPrinterTurbo lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T06:07:09Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T06:06:21Z._
