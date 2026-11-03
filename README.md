@@ -14,12 +14,12 @@ x install MoneyPrinterTurbo
 
 ## Code insight
 
-Total: **97,115** lines of code across **360** files in the top 5 languages.
+Total: **97,419** lines of code across **361** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 86,301 | 3,120 | 11,840 | 335 |
-| Json | 9,497 | 0 | 0 | 20 |
+| Python | 86,599 | 3,147 | 11,890 | 336 |
+| Json | 9,501 | 0 | 0 | 20 |
 | Toml | 472 | 516 | 140 | 3 |
 | Css | 389 | 43 | 71 | 1 |
 | Jupyter | 93 | 16 | 20 | 1 |
@@ -37,22 +37,22 @@ Total: **97,115** lines of code across **360** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 137,247 · **Forks**: 21,909 · **Open issues**: 834 · **Contributors**: 157
+- **Stars**: 137,777 · **Forks**: 21,995 · **Open issues**: 838 · **Contributors**: 157
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 570 · **Open PRs**: 55 · **Closed issues**: 814 · **Open issues**: 20 · **Commits**: 1227
+- **Releases**: 22 · **Merged PRs**: 573 · **Open PRs**: 56 · **Closed issues**: 814 · **Open issues**: 24 · **Commits**: 1231
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 128 | 28 | 15 | 6 | 117 |
-| last60d | 2026-09-03 | 3 | 328 | 44 | 23 | 14 | 359 |
-| 90d | 2026-08-04 | 6 | 370 | 54 | 54 | 19 | 476 |
-| last180d | 2026-05-06 | 12 | 416 | 55 | 176 | 20 | 621 |
-| 360d | 2025-11-07 | 13 | 426 | 55 | 217 | 20 | 669 |
-| last720d | 2024-11-12 | 17 | 464 | 55 | 419 | 20 | 854 |
+| 30d | 2026-10-04 | 1 | 126 | 28 | 15 | 10 | 121 |
+| last60d | 2026-09-04 | 3 | 328 | 44 | 23 | 18 | 363 |
+| 90d | 2026-08-05 | 6 | 373 | 55 | 54 | 23 | 480 |
+| last180d | 2026-05-07 | 12 | 419 | 56 | 174 | 24 | 625 |
+| 360d | 2025-11-08 | 13 | 429 | 56 | 217 | 24 | 673 |
+| last720d | 2024-11-13 | 17 | 467 | 56 | 418 | 24 | 858 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for MoneyPrinterTurbo lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:42:54Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:31:37Z._
