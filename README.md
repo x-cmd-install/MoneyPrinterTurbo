@@ -14,11 +14,11 @@ x install MoneyPrinterTurbo
 
 ## Code insight
 
-Total: **97,728** lines of code across **363** files in the top 5 languages.
+Total: **97,793** lines of code across **363** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 86,901 | 3,179 | 11,940 | 338 |
+| Python | 86,966 | 3,191 | 11,946 | 338 |
 | Json | 9,505 | 0 | 0 | 20 |
 | Toml | 475 | 521 | 141 | 3 |
 | Css | 389 | 43 | 71 | 1 |
@@ -37,22 +37,22 @@ Total: **97,728** lines of code across **363** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 140,356 · **Forks**: 22,393 · **Open issues**: 838 · **Contributors**: 161
+- **Stars**: 140,848 · **Forks**: 22,468 · **Open issues**: 838 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 581 · **Open PRs**: 61 · **Closed issues**: 827 · **Open issues**: 11 · **Commits**: 1242
+- **Releases**: 23 · **Merged PRs**: 583 · **Open PRs**: 61 · **Closed issues**: 827 · **Open issues**: 11 · **Commits**: 1244
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 109 | 31 | 16 | 4 | 132 |
-| last60d | 2026-09-08 | 4 | 331 | 44 | 29 | 7 | 374 |
-| 90d | 2026-08-09 | 7 | 380 | 60 | 66 | 10 | 491 |
-| last180d | 2026-05-11 | 13 | 427 | 61 | 184 | 11 | 636 |
-| 360d | 2025-11-12 | 14 | 437 | 61 | 229 | 11 | 684 |
-| last720d | 2024-11-17 | 18 | 475 | 61 | 429 | 11 | 869 |
+| 30d | 2026-10-09 | 2 | 109 | 31 | 16 | 4 | 133 |
+| last60d | 2026-09-09 | 4 | 332 | 44 | 27 | 7 | 375 |
+| 90d | 2026-08-10 | 7 | 382 | 60 | 64 | 10 | 492 |
+| last180d | 2026-05-12 | 13 | 429 | 61 | 183 | 11 | 637 |
+| 360d | 2025-11-13 | 14 | 439 | 61 | 228 | 11 | 685 |
+| last720d | 2024-11-18 | 18 | 477 | 61 | 429 | 11 | 871 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for MoneyPrinterTurbo lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:22:22Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:26:50Z._
