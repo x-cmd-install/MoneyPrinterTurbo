@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 555234896,
       "digest": "sha256:364be23bb4ca3bd9cf72b52101dac1e3f145581602f5dd56f744d39e5138927c",
-      "download_count": 5731,
+      "download_count": 7766,
       "created_at": "2026-11-07T02:59:39Z",
       "updated_at": "2026-11-07T03:05:32Z",
       "browser_download_url": "https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.10/MoneyPrinterTurbo-Portable-Windows-1.3.10.7z"
