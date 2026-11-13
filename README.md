@@ -14,11 +14,11 @@ x install MoneyPrinterTurbo
 
 ## Code insight
 
-Total: **99,032** lines of code across **368** files in the top 5 languages.
+Total: **99,624** lines of code across **373** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 88,184 | 3,246 | 12,105 | 343 |
+| Python | 88,776 | 3,283 | 12,187 | 348 |
 | Json | 9,517 | 0 | 0 | 20 |
 | Toml | 484 | 532 | 144 | 3 |
 | Css | 389 | 43 | 71 | 1 |
@@ -32,27 +32,27 @@ Total: **99,032** lines of code across **368** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.10` (2026-11-07)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 142,724 · **Forks**: 22,831 · **Open issues**: 841 · **Contributors**: 165
+- **Stars**: 143,074 · **Forks**: 22,901 · **Open issues**: 841 · **Contributors**: 165
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 589 · **Open PRs**: 65 · **Closed issues**: 827 · **Open issues**: 14 · **Commits**: 1254
+- **Releases**: 23 · **Merged PRs**: 594 · **Open PRs**: 67 · **Closed issues**: 827 · **Open issues**: 14 · **Commits**: 1260
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 82 | 24 | 11 | 7 | 100 |
-| last60d | 2026-09-13 | 4 | 327 | 47 | 24 | 10 | 348 |
-| 90d | 2026-08-14 | 6 | 387 | 64 | 62 | 13 | 496 |
-| last180d | 2026-05-16 | 13 | 435 | 65 | 177 | 14 | 643 |
-| 360d | 2025-11-17 | 14 | 445 | 65 | 228 | 14 | 696 |
-| last720d | 2024-11-22 | 18 | 483 | 65 | 423 | 14 | 877 |
+| 30d | 2026-10-14 | 2 | 84 | 26 | 11 | 7 | 106 |
+| last60d | 2026-09-14 | 3 | 324 | 49 | 24 | 10 | 354 |
+| 90d | 2026-08-15 | 6 | 392 | 66 | 62 | 13 | 502 |
+| last180d | 2026-05-17 | 13 | 440 | 67 | 177 | 14 | 649 |
+| 360d | 2025-11-18 | 14 | 450 | 67 | 228 | 14 | 702 |
+| last720d | 2024-11-23 | 18 | 488 | 67 | 423 | 14 | 883 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for MoneyPrinterTurbo lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:15:54Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:36:57Z._
