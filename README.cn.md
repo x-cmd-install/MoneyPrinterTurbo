@@ -14,15 +14,15 @@ x install MoneyPrinterTurbo
 
 ## 代码洞察
 
-合计: **107,034** 行代码（覆盖前 5 种语言、共 **392** 个文件）。
+合计: **108,357** 行代码（覆盖前 5 种语言、共 **402** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 96,063 | 3,527 | 13,192 | 367 |
-| Json | 9,623 | 0 | 0 | 20 |
-| Toml | 495 | 594 | 147 | 3 |
-| Css | 389 | 43 | 71 | 1 |
-| Jupyter | 93 | 16 | 20 | 1 |
+| Python | 96,363 | 3,538 | 13,242 | 370 |
+| Json | 9,785 | 0 | 0 | 22 |
+| Toml | 528 | 598 | 154 | 4 |
+| Css | 485 | 44 | 86 | 3 |
+| Rust | 423 | 7 | 25 | 3 |
 
 ## 源代码
 
@@ -32,33 +32,35 @@ x install MoneyPrinterTurbo
 ## 发布
 
 - **最新版本**: `v1.3.11` (2026-11-23)
-- **最近提交**: 2026-11-24
-- **Release 含资产**: 1 个
+- **最近提交**: 2026-11-25
+- **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 145,355 · **Fork**: 23,385 · **开放 issue**: 849 · **贡献者**: 172
+- **Star**: 145,587 · **Fork**: 23,436 · **开放 issue**: 849 · **贡献者**: 173
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 614 · **开放 PR**: 75 · **已关闭 issue**: 833 · **开放 issue**: 16 · **提交数**: 1290
+- **发布数**: 24 · **已合并 PR**: 615 · **开放 PR**: 74 · **已关闭 issue**: 833 · **开放 issue**: 16 · **提交数**: 1292
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 73 | 22 | 12 | 7 | 77 |
-| last60d | 2026-09-25 | 4 | 317 | 52 | 26 | 11 | 260 |
-| 90d | 2026-08-26 | 6 | 379 | 69 | 50 | 13 | 451 |
-| last180d | 2026-05-28 | 14 | 456 | 75 | 173 | 16 | 638 |
-| 360d | 2025-11-29 | 15 | 470 | 75 | 232 | 16 | 728 |
-| last720d | 2024-12-04 | 19 | 507 | 75 | 423 | 16 | 912 |
+| 30d | 2026-10-26 | 2 | 74 | 21 | 12 | 7 | 79 |
+| last60d | 2026-09-26 | 4 | 317 | 51 | 26 | 11 | 262 |
+| 90d | 2026-08-27 | 6 | 379 | 68 | 49 | 12 | 453 |
+| last180d | 2026-05-29 | 13 | 453 | 74 | 166 | 16 | 640 |
+| 360d | 2025-11-30 | 15 | 471 | 74 | 232 | 16 | 730 |
+| last720d | 2024-12-05 | 19 | 507 | 74 | 420 | 16 | 914 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [MoneyPrinterTurbo-Portable-Windows-1.3.11.7z](https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.11/MoneyPrinterTurbo-Portable-Windows-1.3.11.7z) | 529.4 MiB | `native/win/x64` |
+| [MoneyPrinterTurbo-Desktop-macos-arm64.zip](https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.11/MoneyPrinterTurbo-Desktop-macos-arm64.zip) | 388.8 MiB | `native/darwin/arm64` |
+| [MoneyPrinterTurbo-Desktop-ubuntu-x64.zip](https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.11/MoneyPrinterTurbo-Desktop-ubuntu-x64.zip) | 526.9 MiB | `other` |
+| [MoneyPrinterTurbo-Desktop-windows-x64.zip](https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.11/MoneyPrinterTurbo-Desktop-windows-x64.zip) | 434.4 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -69,4 +71,4 @@ MoneyPrinterTurbo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:58:52Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:46:42Z._
